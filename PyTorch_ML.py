@@ -2,7 +2,7 @@
 """
 Created on Thu Feb 15 12:30:55 2024
 
-@author: www02
+@author: Zhiming02
 """
 import os
 from PIL import Image
