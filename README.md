@@ -12,5 +12,5 @@ Add_loss code is the code of training ML model with extend knowledge-based loss 
 Dynamic_Quantization is the code for quantizing the linear layer of pre-trained ML model using 'Dynamic Quantization' in PyTorch：
 https://pytorch.org/blog/introduction-to-quantization-on-pytorch/
 
-Knowledge of Signal Processing, Communication System, Modulation can be found on book:
+Knowledge of Signal Processing, Communication System, Modulation can be found in book:
 https://www.rfsocbook.com/
